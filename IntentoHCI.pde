@@ -1,3 +1,10 @@
+/*
+Authors:
+Juan Sebastian Obando
+Nicole Continelli
+Luis Martinez
+*/
+
 import jp.nyatla.nyar4psg.*;
 import processing.video.*;
 
